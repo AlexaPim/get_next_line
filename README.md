@@ -62,6 +62,13 @@ Você pode utilizar este repositório para testar seu projeto
 git clone https://github.com/Tripouille/gnlTester.git
 ```
 
+- Para testar, basta entrar na pasta clonada e dar o seguinte comando: make
+
+Exemplo:
+```bash
+diretório/gnlTester$ make
+```
+
 #### Após utilizar o teste, terá essa aparência:
 ---
 
